@@ -12,7 +12,7 @@ Pasos para ejecutar la notebook
   c. El archivo zip se bajara en la carpetas "Descargas". Debemos moverlo a la carpeta creada en el punto 1
     Utilizar el siguiente comando estando situados en la carpeta "Descargas"
     sudo mv Analisis-y-Curacion-de-datos-master.zip /home/AnalisisYCuracion
-  d. Luego descomprimir el archivo 
+  d. Luego descomprimir el archivo utilizando el siguiente comando 
    unzip Analisis-y-Curacion-de-datos-master.zip
 
 3. Para finalizar, estando situados sobre la carpeta creada en el punto 1 ejecutamos el siguiente comando
