@@ -11,9 +11,9 @@ Pasos para ejecutar la notebook
   b. Seleccionar la opción "Download zip"
   c. El archivo zip se bajara en la carpetas "Descargas". Debemos moverlo a la carpeta creada en el punto 1
     Utilizar el siguiente comando estando situados en la carpeta "Descargas"
-    sudo mv Analisis-y-Curacion-de-datos.zip /home/AnalisisYCuracion
+    sudo mv Analisis-y-Curacion-de-datos-master.zip /home/AnalisisYCuracion
   d. Luego descomprimir el archivo 
-   unzip Analisis-y-Curacion-de-datos.zip
+   unzip Analisis-y-Curacion-de-datos-master.zip
 
 3. Para finalizar, estando situados sobre la carpeta creada en el punto 1 ejecutamos el siguiente comando
   a. jupyter notebook
