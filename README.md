@@ -1,5 +1,6 @@
 # Analisis-y-Curacion-de-datos
-Pasos para ejecutar la notebook
+
+Pasos para ejecutar las notebooks de los practicos
 1. Crear el directorio "AnalisisYCuracion" sobre la carpeta "home"
   Para ello ejecutar los siguientes comandos sobre la terminal de linux:
   a. cd /home
@@ -18,5 +19,12 @@ Pasos para ejecutar la notebook
 
 3. Para finalizar, estando situados sobre la carpeta creada en el punto 1 ejecutamos los siguientes comandos:
   a. jupyter notebook
-  b. hacer doble click sobre el archivo Ejercicio-tablasRESUELTO-Corregido.ipynb
 
+- PRACTICO TABLAS
+a. hacer doble click sobre el archivo Ejercicio-tablasRESUELTO-Corregido.ipynb
+
+- PRACTICO PASOS
+a. hacer doble click sobre el archivo PracticoPasosCorregido.ipynb
+
+- PRACTICO LIMPIEZA DE DATOS
+a. hacer doble click sobre el archivo PRACTICO_3_Limpieza_de_Datos.ipynb
