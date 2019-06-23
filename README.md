@@ -24,7 +24,9 @@ Pasos para ejecutar las notebooks de los practicos
   a. hacer doble click sobre el archivo Ejercicio-tablasRESUELTO-Corregido.ipynb
 
   - PRACTICO PASOS
-  a. hacer doble click sobre el archivo PracticoPasosCorregido.ipynb
+  a. Ejecutar el siguiente comando para descomprimir el archivo de datos, situados sobre la carpeta creada en el punto 1:
+    sudo unzip ks-projects-201801.csv.zip
+  b. hacer doble click sobre el archivo PracticoPasosCorregido.ipynb
 
   - PRACTICO LIMPIEZA DE DATOS
   a. hacer doble click sobre el archivo PRACTICO_3_Limpieza_de_Datos.ipynb
