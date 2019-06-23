@@ -17,14 +17,14 @@ Pasos para ejecutar las notebooks de los practicos
    d1. cd /home/AnalisisYCuracion/
    d2. sudo unzip Analisis-y-Curacion-de-datos-master.zip
 
-3. Para finalizar, estando situados sobre la carpeta creada en el punto 1 ejecutamos los siguientes comandos:
+3. Para finalizar, estando situados sobre la carpeta creada en el punto 1 ejecutamos el siguiente comando:
   a. jupyter notebook
 
-- PRACTICO TABLAS
-a. hacer doble click sobre el archivo Ejercicio-tablasRESUELTO-Corregido.ipynb
+  - PRACTICO TABLAS
+  a. hacer doble click sobre el archivo Ejercicio-tablasRESUELTO-Corregido.ipynb
 
-- PRACTICO PASOS
-a. hacer doble click sobre el archivo PracticoPasosCorregido.ipynb
+  - PRACTICO PASOS
+  a. hacer doble click sobre el archivo PracticoPasosCorregido.ipynb
 
-- PRACTICO LIMPIEZA DE DATOS
-a. hacer doble click sobre el archivo PRACTICO_3_Limpieza_de_Datos.ipynb
+  - PRACTICO LIMPIEZA DE DATOS
+  a. hacer doble click sobre el archivo PRACTICO_3_Limpieza_de_Datos.ipynb
